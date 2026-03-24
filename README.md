@@ -48,7 +48,7 @@ some of insights or key findings for the questions mentioned above. Include rele
 
 
 
-## 📌Insight and Conclusion
+## Insight and Conclusion
 - **Diverse Content Mix**: Netflix offers a diverse range of content, with 69.6% movies and 30.4% TV shows.
 
 - **Genre Insights**: International TV Shows are a hit among the top TV shows, while Drama rules the movie category.
